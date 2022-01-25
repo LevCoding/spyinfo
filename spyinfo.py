@@ -93,3 +93,5 @@ elif number == 2:
 elif number == 0:
 	os.system('clear')
 	quit()
+
+# Код защищён авторскими правами. Просьба не тыбзить
