@@ -1,3 +1,3 @@
 # SpyInfo
 ___
-![Screenshot](screenshot.png)
+![Screenshot](IMG_20220126_180503.jpg)
