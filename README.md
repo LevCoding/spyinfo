@@ -1,2 +1,2 @@
 # SpyInfo
-! [Screenshots] (mainscrinshot)
+! [Screenshots] (mainscrin.jpg)
