@@ -15,6 +15,14 @@ git clone https://github.com/LevCoding/spyinfo
 cd spyinfo
 python spyinfo.py
 ```
+Тогда возникает вполне естественный вопрос:
+### Как обновить утилиту?
+#### Для Linux, Termux:
+```
+rm -rf spyinfo
+```
+После заново клонирует репозиторий.
+Все но
 #### !!! Для этого в ваш терминал должен быть установлен git и python
 
 ![alt text](instruc.gif)
