@@ -14,11 +14,11 @@ git clone https://github.com/LevCoding/spyinfo
 Переходим в папку и запускаем проект:
 ```
 cd spyinfo
-python spyinfo.py
+bash spyinfo.sh
 ```
 Тогда возникает вполне естественный вопрос:
 ### Как обновить утилиту?
-#### Для Linux, Termux:
+#### Для Linux/Termux:
 ```
 rm -rf spyinfo
 ```
@@ -33,6 +33,7 @@ _На данный момент мы разрабатываем функцию, 
 ***Поддержать разработчика: 
 https://my.qiwi.com/Yoann-TsTRRrbWr5n***
 
+Текущая версия == 1.0.2
 
 
  _Разработчик Цхай Лев. Программа принадлежит Tskhay Global._
