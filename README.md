@@ -26,7 +26,10 @@ python spyinfo.py
 ### Как обновить утилиту?
 #### Для Linux/Termux:
 ```
+git clone https://github.com/LevCoding/spyinfo
 rm -rf spyinfo
+cd spyinfo
+bash spyinfo.sh
 ```
 Для Windows:
 ```
@@ -39,8 +42,8 @@ python spyinfo.py
 ```
 Mac:
 ```
-rm -P SpyInfo
-ghttps://github.com/LevCoding/spyinfo
+rm -rf spyinfo
+git clone https://github.com/LevCoding/spyinfo
 cd spyinfo
 pip3 install rich
 python spyinfo.py
