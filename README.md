@@ -22,7 +22,23 @@ bash spyinfo.sh
 ```
 rm -rf spyinfo
 ```
-После заново клонируем репозиторий.
+Для Windows:
+```
+Del spyinfo
+Y
+https://github.com/LevCoding/spyinfo
+cd spyinfo
+pip install rich
+python spyinfo.py
+```
+Mac:
+```
+rm -P SpyInfo
+ghttps://github.com/LevCoding/spyinfo
+cd spyinfo
+pip3 install rich
+python spyinfo.py
+```
 Все новости о утилите выходят в нашем телеграм канале:
 https://t.me/tskhayglobal
 #### !!! Для запуска программы в Ваш терминал должен быть установлен git и python
