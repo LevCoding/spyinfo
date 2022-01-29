@@ -16,9 +16,10 @@ git clone https://github.com/LevCoding/spyinfo
 cd spyinfo
 bash spyinfo.sh
 ```
-Windows/Mac:
+#### Windows/Mac:
 ```
 git clone https://github.com/LevCoding/spyinfo
+pip3 install rich
 cd spyinfo
 python spyinfo.py
 ```
@@ -31,7 +32,7 @@ rm -rf spyinfo
 cd spyinfo
 bash spyinfo.sh
 ```
-Для Windows:
+#### Для Windows:
 ```
 Del spyinfo
 Y
@@ -40,7 +41,7 @@ cd spyinfo
 pip install rich
 python spyinfo.py
 ```
-Mac:
+####Mac:
 ```
 rm -rf spyinfo
 git clone https://github.com/LevCoding/spyinfo
