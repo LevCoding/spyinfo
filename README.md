@@ -16,6 +16,12 @@ git clone https://github.com/LevCoding/spyinfo
 cd spyinfo
 bash spyinfo.sh
 ```
+Windows/Mac:
+```
+git clone https://github.com/LevCoding/spyinfo
+cd spyinfo
+python spyinfo.py
+```
 Тогда возникает вполне естественный вопрос:
 ### Как обновить утилиту?
 #### Для Linux/Termux:
