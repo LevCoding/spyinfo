@@ -41,9 +41,10 @@ cd spyinfo
 pip install rich
 python spyinfo.py
 ```
-####Mac:
+#### Для Mac:
 ```
 rm -rf spyinfo
+Y
 git clone https://github.com/LevCoding/spyinfo
 cd spyinfo
 pip3 install rich
