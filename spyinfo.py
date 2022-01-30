@@ -102,7 +102,7 @@ https://my.qiwi.com/Yoann-TsTRRrbWr5n
 
 
 def exit():
-    print(f"\n{'—' * (terminal_size[0] // 4)}\n\nБудьте аккуратны!\n\n{'—' * (terminal_size[0] // 4)}\n")
+    print(f"\n{'—' * (terminal_size[0] // 4)}\n\n\n\n{'—' * (terminal_size[0] // 4)}\n")
     print('—' * terminal_size[0])
     quit()
 
